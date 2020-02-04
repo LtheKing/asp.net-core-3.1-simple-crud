@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeShop", "CoffeeShop.csproj", "{615383D4-D7A6-476E-9652-E84CFF0A3BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{9C5038EC-7A5B-4878-ABBF-A0CD31BFDA8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615383D4-D7A6-476E-9652-E84CFF0A3BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615383D4-D7A6-476E-9652-E84CFF0A3BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615383D4-D7A6-476E-9652-E84CFF0A3BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615383D4-D7A6-476E-9652-E84CFF0A3BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5038EC-7A5B-4878-ABBF-A0CD31BFDA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5038EC-7A5B-4878-ABBF-A0CD31BFDA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5038EC-7A5B-4878-ABBF-A0CD31BFDA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5038EC-7A5B-4878-ABBF-A0CD31BFDA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E17F004-2511-4DDD-9E14-1300BB19FFA3}
+	EndGlobalSection
+EndGlobal
